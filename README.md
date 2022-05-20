@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @coding-x1
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning it
